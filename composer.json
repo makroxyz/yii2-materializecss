@@ -1,0 +1,25 @@
+{
+    "name": "macgyer/yii2-materializecss",
+    "minimum-stability": "stable",
+    "description": "Materialize CSS implementation for Yii2",
+    "keywords": ["materialize", "yii2", "widgets", "material design"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Marco Curatitoli",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "~2.0",
+
+        "bower-asset/materialize": ">=0.97.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "makroxyz\\materializecss\\": ""
+        }
+    }
+}
