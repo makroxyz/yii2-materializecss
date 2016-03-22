@@ -24,16 +24,9 @@ class Modal extends Widget
 
     /**
      * @var string the different modal types
-     *
-     * The following options are supported
-     *
-     * - lean (default)
-     * - fixedFooter
-     * - bottomSheet
-     *
      * @see http://materializecss.com/modals.html
      */
-    public $modalType = self::TYPE_LEAN; // fixedFooter | bottomSheet
+    public $modalType = self::TYPE_LEAN; // modal-fixed-footer | bottom-sheet
 
     /**
      * @var array|false the options for rendering the close button tag.
@@ -185,17 +178,6 @@ class Modal extends Widget
      */
     protected function initDefaults()
     {
-//        switch ($this->modalType) {
-//            case self::TYPE_FIXED_FOOTER:
-//                Html::addCssClass($this->options, ['modalType' => 'modal-fixed-footer']);
-//                break;
-//            case self::TYPE_BOTTOM_SHEET:
-//                Html::addCssClass($this->options, ['modalType' => 'bottom-sheet']);
-//                break;
-//            default:
-//                break;
-//        }
-        
         Html::addCssClass($this->options, ['modalType' => $this->modalType]);
         Html::addCssClass($this->options, ['widget' => 'modal']);
 
