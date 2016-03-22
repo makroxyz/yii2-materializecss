@@ -3,7 +3,7 @@
 This is "a best of" 
 - https://github.com/laptrinhphp/yii2-materializecss
 - https://github.com/tuyakhov/yii2-materialize
-- https://github.com/MacGyer/yii2-materializecss
+- https://github.com/makroxyz/yii2-materializecss
 
 Please help me to improve widgets and documentation, most important are ActiveForm and ActiveField.
 

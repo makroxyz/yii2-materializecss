@@ -5,7 +5,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-namespace macgyer\yii2materializecss;
+namespace makroxyz\materializecss;
 
 use yii\helpers\ArrayHelper;
 

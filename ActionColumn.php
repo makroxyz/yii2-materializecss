@@ -1,12 +1,12 @@
 <?php
 
-namespace macgyer\yii2materializecss;
+namespace makroxyz\materializecss;
 
 use Yii;
 
 /**
  * Class ActionColumn
- * @package macgyer\yii2materializecss\grid
+ * @package makroxyz\materializecss
  */
 class ActionColumn extends \yii\grid\ActionColumn
 {

@@ -1,5 +1,5 @@
 <?php
-namespace macgyer\yii2materializecss;
+namespace makroxyz\materializecss;
 
 /**
  * Toasts

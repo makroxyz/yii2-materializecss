@@ -1,13 +1,13 @@
 <?php
 
-namespace macgyer\yii2materializecss;
+namespace makroxyz\materializecss;
 
 use yii\base\InvalidConfigException;
 use yii\helpers\ArrayHelper;
 
 /**
  * Class FixedActionButton
- * @package macgyer\yii2materializecss
+ * @package makroxyz\materializecss
  */
 class FixedActionButton extends Widget
 {

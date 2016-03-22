@@ -1,12 +1,12 @@
 <?php
 
-namespace macgyer\yii2materializecss;
+namespace makroxyz\materializecss;
 
 use Yii;
 
 /**
  * Class NavBar
- * @package macgyer\yii2materializecss
+ * @package makroxyz\materializecss
  */
 class NavBar extends Widget
 {

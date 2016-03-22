@@ -1,12 +1,12 @@
 <?php
 
-namespace macgyer\yii2materializecss;
+namespace makroxyz\materializecss;
 
 use yii\web\AssetBundle;
 
 /**
  * Class MaterializeFontAsset
- * @package macgyer\yii2materializecss\assets
+ * @package makroxyz\materializecss\assets
  */
 class MaterializeFontAsset extends AssetBundle
 {

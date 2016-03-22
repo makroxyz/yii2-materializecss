@@ -2,7 +2,7 @@
 /**
  * @author Anton Tuyakhov <atuyakhov@gmail.com>
  */
-namespace macgyer\yii2materializecss;
+namespace makroxyz\materializecss;
 
 use yii\base\InvalidConfigException;
 use yii\helpers\ArrayHelper;

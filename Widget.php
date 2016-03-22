@@ -1,10 +1,10 @@
 <?php
 
-namespace macgyer\yii2materializecss;
+namespace makroxyz\materializecss;
 
 /**
  * Class BaseWidget
- * @package macgyer\yii2materializecss
+ * @package makroxyz\materializecss
  */
 class Widget extends \yii\base\Widget
 {

@@ -1,11 +1,11 @@
 <?php
-namespace macgyer\yii2materializecss;
+namespace makroxyz\materializecss;
 
 use yii\web\AssetBundle;
 
 class YiiMaterializeAsset extends AssetBundle
 {
-    public $sourcePath = '@macgyer/yii2materializecss/assets';
+    public $sourcePath = '@makroxyz/materializecss/assets';
     public $css = [
         'css/yii.materialize.css'
     ];

@@ -1,13 +1,13 @@
 <?php
 
-namespace macgyer\yii2materializecss;
+namespace makroxyz\materializecss;
 
 use Yii;
 use yii\helpers\ArrayHelper;
 
 /**
  * Class Alert
- * @package macgyer\yii2materializecss
+ * @package makroxyz\materializecss
  */
 class Alert extends Widget
 {

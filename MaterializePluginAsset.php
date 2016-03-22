@@ -1,6 +1,6 @@
 <?php
 
-namespace macgyer\yii2materializecss;
+namespace makroxyz\materializecss;
 
 use yii\web\AssetBundle;
 
@@ -18,6 +18,6 @@ class MaterializePluginAsset extends AssetBundle
 
     public $depends = [
         'yii\web\JqueryAsset',
-        'macgyer\yii2materializecss\MaterializeAsset',
+        'makroxyz\materializecss\MaterializeAsset',
     ];
 }

@@ -5,7 +5,7 @@
  * and open the template in the editor.
  */
 
-namespace macgyer\yii2materializecss;
+namespace makroxyz\materializecss;
 
 use yii\helpers\ArrayHelper;
 

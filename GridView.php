@@ -1,10 +1,10 @@
 <?php
 
-namespace macgyer\yii2materializecss;
+namespace makroxyz\materializecss;
 
 /**
  * Class GridView
- * @package macgyer\yii2materializecss\grid
+ * @package makroxyz\materializecss\grid
  */
 class GridView extends \yii\grid\GridView
 {

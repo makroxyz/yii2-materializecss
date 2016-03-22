@@ -1,12 +1,12 @@
 <?php
 
-namespace macgyer\yii2materializecss;
+namespace makroxyz\materializecss;
 
 use yii\helpers\Json;
 
 /**
  * Trait MaterializeWidgetTrait
- * @package macgyer\yii2materializecss\lib
+ * @package makroxyz\materializecss
  */
 trait MaterializeWidgetTrait
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace macgyer\yii2materializecss;
+namespace makroxyz\materializecss;
 
 use Yii;
 use yii\base\InvalidConfigException;
@@ -8,7 +8,7 @@ use yii\helpers\ArrayHelper;
 
 /**
  * Class Breadcrumbs
- * @package macgyer\yii2materializecss
+ * @package makroxyz\materializecss
  */
 class Breadcrumbs extends \yii\widgets\Breadcrumbs
 {

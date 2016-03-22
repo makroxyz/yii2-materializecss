@@ -1,6 +1,6 @@
 <?php
 
-namespace macgyer\yii2materializecss;
+namespace makroxyz\materializecss;
 
 class ActiveField extends \yii\widgets\ActiveField
 {

@@ -1,12 +1,12 @@
 <?php
 
-namespace macgyer\yii2materializecss;
+namespace makroxyz\materializecss;
 
 use yii\base\InvalidConfigException;
 
 /**
  * Class Icon
- * @package macgyer\yii2materializecss
+ * @package makroxyz\materializecss
  */
 class Icon extends Widget
 {

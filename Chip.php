@@ -1,13 +1,13 @@
 <?php
 
-namespace macgyer\yii2materializecss;
+namespace makroxyz\materializecss;
 
 use yii\base\InvalidConfigException;
 use yii\helpers\ArrayHelper;
 
 /**
  * Class Chip
- * @package macgyer\yii2materializecss
+ * @package makroxyz\materializecss
  *
  * @see http://materializecss.com/chips.html
  */
@@ -55,7 +55,7 @@ class Chip extends Widget
      * ]
      * ```
      *
-     * @see macgyer\yii2materializecssIcon::run()
+     * @see makroxyz\materializecssIcon::run()
      */
     public $icon;
 
