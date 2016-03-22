@@ -5,7 +5,7 @@ This is "a best of"
 - https://github.com/tuyakhov/yii2-materialize
 - https://github.com/MacGyer/yii2-materializecss
 
-Please help me to improve widgets and documentation.
+Please help me to improve widgets and documentation, most important are ActiveForm and ActiveField.
 
 This package integrates the Materialize CSS framework into [Yii2](http://www.yiiframework.com/).
 [Materialize](http://materializecss.com/) is a modern responsive front-end framework based on Material Design.
