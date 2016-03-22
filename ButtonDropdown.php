@@ -26,10 +26,6 @@ use yii\helpers\ArrayHelper;
  *     ],
  * ]);
  * ```
- * @see http://getbootstrap.com/javascript/#buttons
- * @see http://getbootstrap.com/components/#btn-dropdowns
- * @author Antonio Ramirez <amigo.cobos@gmail.com>
- * @since 2.0
  */
 class ButtonDropdown extends Widget
 {
